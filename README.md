@@ -1,0 +1,1 @@
+This project uses Observable to create injury heat maps for various professional athletes. The color on the maps indicates the player's injury risk at each spot on their body and each part is interactive in order to show the user what injuries the player has experienced. - Isaiah Kahn
