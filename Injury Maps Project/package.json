@@ -1,0 +1,14 @@
+{
+  "name": "9d1e697e2c39a52e",
+  "main": "9d1e697e2c39a52e@99.js",
+  "version": "99.0.0",
+  "homepage": "https://observablehq.com/d/9d1e697e2c39a52e",
+  "author": {
+    "name": "Isaiah Kahn's Workspace",
+    "url": "https://observablehq.com/@isaiah-kahn-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
